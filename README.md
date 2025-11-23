@@ -1,6 +1,6 @@
 # 🎬 MovieTracker - Discover Your Next Favorite Film
 
-![Project Banner](https://via.placeholder.com/1200x600/030014/FFFFFF?text=MovieTracker+Banner)
+![Project Banner](file:///home/yui/video/2025-11-23%2017-00-23.mp4)
 *A modern, intuitive movie discovery platform that helps you find films you'll actually enjoy*
 
 ## ✨ Features
