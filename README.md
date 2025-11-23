@@ -48,10 +48,10 @@
 ### Quick Start
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/movie-tracker.git
+git clone https://github.com/lghuy05/Movie_Tracker.git
 
 # Navigate to project directory
-cd movie-tracker
+cd Movie_Tracker
 
 # Install dependencies
 npm install
@@ -59,6 +59,7 @@ npm install
 # Set up environment variables
 cp .env.example .env
 # Add your OMDB API key to .env
+//contact me =))
 
 # Start development server
 npm run dev
