@@ -1,6 +1,8 @@
 # 🎬 MovieTracker - Discover Your Next Favorite Film
 
-![Project Banner](https://www.youtube.com/watch?v=qeMZ67QBQyk)
+[![Demo](https://img.youtube.com/vi/qeMZ67QBQyk/maxresdefault.jpg)](https://youtu.be/qeMZ67QBQyk)
+
+### [Watch this video on YouTube](https://youtu.be/qeMZ67QBQyk)
 *A modern, intuitive movie discovery platform that helps you find films you'll actually enjoy*
 
 ## ✨ Features
