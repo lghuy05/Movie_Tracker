@@ -2,7 +2,6 @@
 
 [![Demo](https://img.youtube.com/vi/qeMZ67QBQyk/maxresdefault.jpg)](https://youtu.be/qeMZ67QBQyk)
 
-### [Watch this video on YouTube](https://youtu.be/qeMZ67QBQyk)
 *A modern, intuitive movie discovery platform that helps you find films you'll actually enjoy*
 
 ## ✨ Features
